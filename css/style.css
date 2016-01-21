@@ -1,8 +1,8 @@
 button{
-    background: red;
+    background: blue;
     color: white;
 }
 
 button.active{
- background: blue;   
+ background: red;   
 }
